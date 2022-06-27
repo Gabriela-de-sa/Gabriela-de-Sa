@@ -10,6 +10,9 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <h3>Visitantes</h3>
+  <p ><img align="center"src="https://profile-counter.glitch.me/Gabriela-de-Sa/count.svg"/></p>
+   </p><hr>
   <h3>Languages and tools:</h3>
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/984139807368294459/990430277958516736/ezgif.com-gif-maker.gif?width=427&height=427">
