@@ -28,6 +28,6 @@
   
   <h3>Contribution graph</h3>
   
-   ![snake gif](https://github.com/Gabriela-de-Sa/Gabriela-de-Sa/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/Gabriela-de-Sa/Gabriela-de-Sa/blob/output/github-contribution-grid-snake.svg)
   
 </div>
