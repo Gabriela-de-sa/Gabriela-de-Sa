@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/Gabriela-de-sa">
   <img   height="160em"  width="42%" src="https://github-readme-stats.vercel.app/api?username=Gabriela-de-Sa&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img  height="160em"  width="57%" src="http://github-readme-streak-stats.herokuapp.com?user=Gabriela-de-Sa&theme=jolly&show_icons=true&include_all_commits=true&count_private=true)] (https://git.io/streak-stats" />
+  <img  height="160em"  width="42%" src="http://github-readme-streak-stats.herokuapp.com?user=Gabriela-de-Sa&theme=jolly&show_icons=true&include_all_commits=true&count_private=true)] (https://git.io/streak-stats" />
 </div>
   
 <div style="display: inline_block"><br>
