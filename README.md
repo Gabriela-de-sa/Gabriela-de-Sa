@@ -10,7 +10,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h3>Visitantes</h3>
+  <h3>Passei por aqui</h3>
   <p ><img align="center"src="https://profile-counter.glitch.me/Gabriela-de-Sa/count.svg"/></p>
    </p><hr>
   <h3>Languages and tools:</h3>
