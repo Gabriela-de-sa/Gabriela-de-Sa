@@ -6,7 +6,7 @@
   <img  height="160em"  width="42%" src="http://github-readme-streak-stats.herokuapp.com?user=Gabriela-de-Sa&theme=jolly&show_icons=true&include_all_commits=true&count_private=true)] (https://git.io/streak-stats" />
     <br>
     <img   height="160em"  width="42%" src="https://github-readme-stats.vercel.app/api?username=Gabriela-de-Sa&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-   <img  height="160em"  width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-de-Sa&layout=compact&langs_count=1&theme=jolly"/>
+    <img   height="160em"  width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-de-Sa&layout=compact&theme=jolly"/>
 </div>
   
 <div style="display: inline_block"><br>
