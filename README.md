@@ -1,4 +1,4 @@
-### Olá! Sou Gabriela de Sa 👋 
+### Olá! Sou Gabriela de Sa 👋
 
 <br>
 <div align="center">
